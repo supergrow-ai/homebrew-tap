@@ -1,7 +1,7 @@
 class Pgpeek < Formula
   desc "Minimal PostgreSQL GUI client"
   homepage "https://github.com/supergrow-ai/pgpeek"
-  url "https://github.com/supergrow-ai/pgpeek.git", tag: "v0.3.0"
+  url "https://github.com/supergrow-ai/pgpeek.git", tag: "v0.3.1"
   license "MIT"
 
   def install
